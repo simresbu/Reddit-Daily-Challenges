@@ -1,0 +1,6 @@
+C:\Users\Dev\Documents\GitRepository\Daily Reddit Programming Challenges\Hard\Challenge313\Challenge313\bin\Debug\Challenge313.exe.config
+C:\Users\Dev\Documents\GitRepository\Daily Reddit Programming Challenges\Hard\Challenge313\Challenge313\bin\Debug\Challenge313.exe
+C:\Users\Dev\Documents\GitRepository\Daily Reddit Programming Challenges\Hard\Challenge313\Challenge313\bin\Debug\Challenge313.pdb
+C:\Users\Dev\Documents\GitRepository\Daily Reddit Programming Challenges\Hard\Challenge313\Challenge313\obj\Debug\Challenge313.exe
+C:\Users\Dev\Documents\GitRepository\Daily Reddit Programming Challenges\Hard\Challenge313\Challenge313\obj\Debug\Challenge313.pdb
+C:\Users\Dev\Documents\GitRepository\Daily Reddit Programming Challenges\Hard\Challenge313\Challenge313\obj\Debug\Challenge313.csprojResolveAssemblyReference.cache
